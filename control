@@ -14,6 +14,7 @@ Standards-Version: 4.1.2
 Homepage: https://github.com/psifidotos/applet-window-buttons
 Vcs-Git: https://github.com/psifidotos/applet-window-buttons.git
 Vcs-Browser: https://github.com/psifidotos/applet-window-buttons
+
 Package: applet-window-buttons
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
